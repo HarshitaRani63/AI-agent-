@@ -1,0 +1,18 @@
+[
+    {
+        "question": "What do you offer?",
+        "answer": "We offer courses and training material on Cloud Computing, Voice AI, and practical engineering workshops."
+    },
+    {
+        "question": "How much does the Voice AI course cost?",
+        "answer": "Course pricing varies by package. Please share your use case and we'll provide the correct pricing details via email."
+    },
+    {
+        "question": "Are there any free resources?",
+        "answer": "Yes \u2014 there are free introductory tutorials and sample lessons available. Paid courses contain deep-dive material and hands-on projects."
+    },
+    {
+        "question": "Do you offer consulting or team training?",
+        "answer": "Yes \u2014 we provide consulting and custom training for teams. Pricing depends on scope."
+    }
+]
