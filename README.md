@@ -158,7 +158,7 @@ cd frontend
 pnpm dev
 ```
 
-Then open http://localhost:3000 in your browser!
+Then open uv in your browser!
 
 ## Daily Challenge Tasks
 
